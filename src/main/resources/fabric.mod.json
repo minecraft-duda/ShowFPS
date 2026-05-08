@@ -1,0 +1,28 @@
+{
+    "schemaVersion": 1,
+    "id": "showfps",
+    "version": "${version}",
+    "name": "ShowFPS",
+    "description": "Display FPS on screen with customizable settings.",
+    "authors": ["Minecraft_duda"],
+    "contact": {
+        "homepage": "https://modrinth.com/mod/showfps",
+        "sources": "https://github.com/Minecraft-duda/ShowFPS"
+    },
+    "license": "MIT",
+    "icon": "assets/showfps/icon.png",
+    "environment": "client",
+    "entrypoints": {
+        "main": [
+            "com.minecraft_duda.showfps.ShowFPS"
+        ],
+        "client": [
+            "com.minecraft_duda.showfps.client.ShowFPSClient"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.19.2",
+        "minecraft": "26.1.2",
+        "fabric-api": ">=0.148.0"
+    }
+}
