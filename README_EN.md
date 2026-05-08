@@ -1,6 +1,6 @@
 # ShowFPS
 
-[中文README]("https://github.com/minecraft-duda/ShowFPS/blob/main/README.md")
+[中文README](https://github.com/minecraft-duda/ShowFPS/blob/main/README.md)
 
 The developer has given up Forge,content is for Fabric ony!
 
