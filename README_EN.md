@@ -1,3 +1,7 @@
+# ShowFPS
+
+[中文README]("https://github.com/minecraft-duda/ShowFPS/blob/main/README.md")
+
 The developer has given up Forge,content is for Fabric ony!
 
 This is a mod that displays the frame rate in the top-left corner.
