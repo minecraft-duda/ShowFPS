@@ -1,6 +1,6 @@
 # ShowFPS
 
-[English README]("https://github.com/minecraft-duda/ShowFPS/blob/main/README_EN.md")
+[English README](https://github.com/minecraft-duda/ShowFPS/blob/main/README_EN.md)
 
 这是一个在左上角显示帧率的模组。
 
