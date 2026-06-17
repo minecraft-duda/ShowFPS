@@ -20,7 +20,7 @@ public class ShowFPSKeyBinds {
 
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
             while (OPEN_CONFIG.consumeClick()) {
-                client.setScreen(new ShowFPSConfigScreen(client.screen));
+                client.gui.setScreen(new ShowFPSConfigScreen(null));
             }
         });
     }

@@ -66,7 +66,7 @@ public class ShowFPSConfigScreen extends Screen {
     private void saveAndClose() {
         ShowFPSClient.getInstance().saveConfig();
         if (this.minecraft != null) {
-            this.minecraft.setScreen(parent);
+            this.minecraft.gui.setScreen(parent);
         }
     }
 
