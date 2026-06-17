@@ -1,0 +1,9 @@
+{
+    "category.showfps": "ShowFPS",
+    "key.showfps.open_config": "Open Settings",
+    "screen.showfps.config": "ShowFPS Settings",
+    "option.showfps.enabled": "Show FPS",
+    "option.showfps.background": "Show Background",
+    "option.showfps.color_by_fps": "Color by FPS",
+    "option.showfps.color_by_fps.tooltip": "Red (<60), Green (60-120), Blue (>120)"
+}

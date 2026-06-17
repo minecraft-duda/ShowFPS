@@ -1,0 +1,9 @@
+{
+    "category.showfps": "显示FPS",
+    "key.showfps.open_config": "打开设置",
+    "screen.showfps.config": "ShowFPS 设置",
+    "option.showfps.enabled": "显示FPS",
+    "option.showfps.background": "显示背景",
+    "option.showfps.color_by_fps": "根据帧率变色",
+    "option.showfps.color_by_fps.tooltip": "红色(<60)，绿色(60-120)，蓝色(>120)"
+}
